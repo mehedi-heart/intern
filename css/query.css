@@ -1,0 +1,42 @@
+@media (min-width:550px)and (max-width:767px){
+#header-top-area {
+  text-align: center;
+}
+#header-top-area .col-sm-6.text-right {
+  text-align: center;
+}
+    #about-our img {
+    width: 100%;
+}
+    #gallery-area .col-sm-4{
+        width: 50%;
+        float: left;
+    } 
+    .div6 {
+    width: 50%;
+    text-align: center;
+}
+    #resourse-area .col-sm-4{
+      width: 50%;
+        float: left;
+    }
+}
+
+@media (max-width:549px){
+   #header-top-area {
+  text-align: center;
+}
+#header-top-area .col-sm-6.text-right {
+  text-align: center;
+}
+    #gallery-area img{
+        width: 100%;
+    }
+       .div6 {
+    width: 40%;
+    text-align: center;
+}
+    #resourse-area img{
+        width: 100%;
+    }
+}
